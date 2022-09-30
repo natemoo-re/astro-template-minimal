@@ -1,4 +1,4 @@
-# Astro Starter Kit: Minimal / beep
+# Astro Starter Kit: Minimal / boop
 
 ```
 npm create astro@latest -- --template minimal
